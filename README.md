@@ -1,6 +1,4 @@
 # Petris
-Basic Tetris Clone
-
 
 Tetris clone written for the Löve2D engine
 Available for Löve v0.9.2 and v0.10.2
