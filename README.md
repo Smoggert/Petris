@@ -3,7 +3,7 @@
 Recommended build : v0.10.2
 ------------------------------------------
 Tetris clone written for the Löve2D engine
-Available for Löve v0.9.2 and v0.10.2
+available for Löve v0.9.2 and v0.10.2
 
 Löve v0.10.2 requires atleast OpenGL v1.2.1
 If your device has no access to this you can use the v0.9.2 build
