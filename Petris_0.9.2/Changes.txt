@@ -1,0 +1,5 @@
+Text objects need adjustment
+Space key -> ' '
+Colors work differently
+mousebutton = l (L) instead 1 (one)
+font.getWrap return number of lines instead of table with substrings
